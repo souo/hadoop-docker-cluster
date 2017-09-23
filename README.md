@@ -33,4 +33,4 @@ shutdowns your cluster.
 License
 -------
 
-[Apache License Version2.0](http://www.apache.org/licenses/LICENSE-2.0) This images are modified from [ewuathe/docker-hadoop-cluster(https://github.com/Lewuathe/docker-hadoop-cluster) and [sequenceiq/hadoop-docker](https://github.com/sequenceiq/hadoop-docker).
+[Apache License Version2.0](http://www.apache.org/licenses/LICENSE-2.0) This images are modified from [ewuathe/docker-hadoop-cluster](https://github.com/Lewuathe/docker-hadoop-cluster) and [sequenceiq/hadoop-docker](https://github.com/sequenceiq/hadoop-docker).
